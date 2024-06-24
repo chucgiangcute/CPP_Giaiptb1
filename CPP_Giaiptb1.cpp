@@ -8,7 +8,7 @@ int main() {
 	cout << "Nhap gia tri b";
 	cin >> b;
 	if (a == 0) {
-		cout 
+		cout << "Gia tri x la :";
 	}
 	x = -b / a;
 	cout << "Gia tri x la :" << x;
